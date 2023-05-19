@@ -1,0 +1,10 @@
+/* estelizacao para todas as tags */
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+}
+ul{
+    /* nenhum tipo de lista */
+    list-style:none;
+}
